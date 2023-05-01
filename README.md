@@ -1,5 +1,9 @@
 # Deep CNN for classifying EEG Emotion
 
+## Performance
+90.1% validation accuracy
+
+
 you'll need the SEED I dataset. Application here: [ application form](https://bcmi.sjtu.edu.cn/ApplicationForm/apply_form/)
 
 ## Pytorch model design
