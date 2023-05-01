@@ -14,4 +14,5 @@ you'll need the SEED I dataset. Application here: [ application form](https://bc
 
 ## Use
 + extract SEED I data to ./data
++ you will want to alter the batch size and workers on the loader to suit your env
 + ```./CNN-LSTM-RES.sh```
